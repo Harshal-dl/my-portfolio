@@ -3,7 +3,7 @@
 
     let steps = [
         {
-            href: "https://github.com/Harshal-dl/Portfolio",
+            href: "https://github.com/Harshal-dl/my-portfolio",
             name: "Portfolio Website ",
             icon: "fa-solid fa-address-card",
         },
